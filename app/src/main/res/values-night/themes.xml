@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.MyNote" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/evernote_green</item>
+        <item name="colorPrimaryVariant">@color/orange_active</item>
+        <item name="colorSecondary">@color/mint</item>
+        <item name="android:windowBackground">@color/dark_bg</item>
+        <item name="colorSurface">@color/dark_surface</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:textColorSecondary">@color/text_secondary_dark</item>
+        <item name="android:textColorHint">@color/text_secondary_dark</item>
+    </style>
+</resources>

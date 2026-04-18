@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="evernote_green">#4B5563</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="accent_yellow">#9CA3AF</color>
+
+    <color name="main_background_color">#F6F8FF</color>
+    <color name="orange_active">#374151</color>
+    <color name="text_primary">#0F172A</color>
+
+    <color name="dark_bg">#090D1A</color>
+    <color name="dark_surface">#111827</color>
+    <color name="text_secondary_dark">#94A3B8</color>
+
+    <color name="dark_background">#020617</color>
+    <color name="surface_soft">#E5E7EB</color>
+    <color name="surface_soft_dark">#334155</color>
+    <color name="mint">#6B7280</color>
+</resources>
