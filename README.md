@@ -1,6 +1,7 @@
 ArnoTask - Task Manager App
-📌 Overview
-ArnoTask is a comprehensive task management platform built to streamline personal organization. In a fast-paced environment where managing data can be disorganized, this application provides a unified interface for note-taking and reminders, enhanced by location-aware context.
+
+📌 Overview:
+ArnoTask is a centralized task management application designed to help users efficiently organize daily tasks, notes, and reminders within a single interface. Developed using modern Android technologies like Kotlin, MVVM architecture, and Room Database, the app addresses the fragmentation of personal productivity tools. Key features include real-time location detection, personalized theme customization (dark/light modes), and an automated SMS alert system for timely task reminders.
 
 
 🚀 Features
